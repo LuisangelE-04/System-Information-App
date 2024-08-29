@@ -1,0 +1,14 @@
+# Ignore Folder
+.vs/
+x64/
+
+# Ignore Files
+WindowsProject1.aps
+WindowsProject1.rc
+WindowsProject1.sln
+WindowsProject1.vcxproj
+WindowsProject1.vcxproj.filters
+WindowsProject1.vcxproj.user
+WindowsProject1.ico
+small.ico
+targetver.h
